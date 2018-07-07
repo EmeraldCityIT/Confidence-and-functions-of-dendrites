@@ -1,0 +1,2 @@
+# Confidence-and-functions-of-dendrites
+Dendrites grow in the brain as an emotional reaction to input from the surroundings of the system. Dendrites grow in an If-then-else instruction set which is then accessed via the brain through the axon. When dendrites are used by the brain to make decisions, and the expected if-then-else id received, a conscious decision is made to depend on the specific dendrite structures which created the expected response.
