@@ -1,2 +1,4 @@
 # Confidence-and-functions-of-dendrites
 Dendrites grow in the brain as an emotional reaction to input from the surroundings of the system. Dendrites are created as an If-then-else instruction set which is then accessed via the brain through the axon. When dendrites are used by the brain to make decisions, and the expected if-then-else id received, a conscious decision is made to depend on those specific dendrite structures which created the expected response.
+
+An over abundance of dendrites created from traumatic decisions create a system which lacks propper if-then-else programming required to make concious decisions. Dendrites which are formed from submitting one's self to a negative situation create a victim-like mindstate in which the brain makes repetitive decisions that place the body in dangerous situations.
